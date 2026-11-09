@@ -1,0 +1,55 @@
+country,year,source,category,generation_twh
+United States,2020,Coal,Fossil fuel,773.39
+United States,2020,Natural Gas,Fossil fuel,1624.17
+United States,2020,Oil,Fossil fuel,34.34
+United States,2020,Nuclear,Low-carbon,789.88
+United States,2020,Wind,Low-carbon,337.94
+United States,2020,Solar,Low-carbon,130.72
+United States,2020,Hydropower,Low-carbon,279.95
+United States,2020,Bioenergy,Low-carbon,54.7
+United States,2020,Other Renewables,Low-carbon,18.09
+United States,2021,Coal,Fossil fuel,898.0
+United States,2021,Natural Gas,Fossil fuel,1579.19
+United States,2021,Oil,Fossil fuel,35.2
+United States,2021,Nuclear,Low-carbon,779.65
+United States,2021,Wind,Low-carbon,378.2
+United States,2021,Solar,Low-carbon,164.42
+United States,2021,Hydropower,Low-carbon,246.47
+United States,2021,Bioenergy,Low-carbon,54.25
+United States,2021,Other Renewables,Low-carbon,18.24
+United States,2022,Coal,Fossil fuel,831.51
+United States,2022,Natural Gas,Fossil fuel,1687.06
+United States,2022,Oil,Fossil fuel,38.64
+United States,2022,Nuclear,Low-carbon,771.54
+United States,2022,Wind,Low-carbon,434.3
+United States,2022,Solar,Low-carbon,205.07
+United States,2022,Hydropower,Low-carbon,248.76
+United States,2022,Bioenergy,Low-carbon,51.85
+United States,2022,Other Renewables,Low-carbon,18.16
+United States,2023,Coal,Fossil fuel,675.11
+United States,2023,Natural Gas,Fossil fuel,1806.06
+United States,2023,Oil,Fossil fuel,33.13
+United States,2023,Nuclear,Low-carbon,774.87
+United States,2023,Wind,Low-carbon,421.14
+United States,2023,Solar,Low-carbon,238.94
+United States,2023,Hydropower,Low-carbon,239.01
+United States,2023,Bioenergy,Low-carbon,47.2
+United States,2023,Other Renewables,Low-carbon,18.45
+United States,2024,Coal,Fossil fuel,652.16
+United States,2024,Natural Gas,Fossil fuel,1869.9
+United States,2024,Oil,Fossil fuel,30.47
+United States,2024,Nuclear,Low-carbon,781.86
+United States,2024,Wind,Low-carbon,451.9
+United States,2024,Solar,Low-carbon,303.75
+United States,2024,Hydropower,Low-carbon,237.04
+United States,2024,Bioenergy,Low-carbon,46.42
+United States,2024,Other Renewables,Low-carbon,17.52
+United States,2025,Coal,Fossil fuel,737.15
+United States,2025,Natural Gas,Fossil fuel,1807.34
+United States,2025,Oil,Fossil fuel,31.72
+United States,2025,Nuclear,Low-carbon,784.78
+United States,2025,Wind,Low-carbon,464.39
+United States,2025,Solar,Low-carbon,388.82
+United States,2025,Hydropower,Low-carbon,241.7
+United States,2025,Bioenergy,Low-carbon,46.19
+United States,2025,Other Renewables,Low-carbon,17.7
