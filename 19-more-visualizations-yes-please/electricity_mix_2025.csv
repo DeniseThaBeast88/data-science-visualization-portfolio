@@ -1,0 +1,37 @@
+country,year,source,share_of_electricity_pct
+Brazil,2025,Coal,2.29
+China,2025,Coal,54.34
+Germany,2025,Coal,20.61
+India,2025,Coal,70.82
+Japan,2025,Coal,32.05
+United States,2025,Coal,16.31
+Brazil,2025,Gas,7.31
+China,2025,Gas,3.16
+Germany,2025,Gas,16.52
+India,2025,Gas,2.33
+Japan,2025,Gas,32.78
+United States,2025,Gas,39.99
+Brazil,2025,Nuclear,2.12
+China,2025,Nuclear,4.61
+Germany,2025,Nuclear,0.0
+India,2025,Nuclear,2.59
+Japan,2025,Nuclear,9.14
+United States,2025,Nuclear,17.36
+Brazil,2025,Hydro,51.78
+China,2025,Hydro,13.2
+Germany,2025,Hydro,3.91
+India,2025,Hydro,8.55
+Japan,2025,Hydro,7.18
+United States,2025,Hydro,5.35
+Brazil,2025,Wind,15.67
+China,2025,Wind,10.73
+Germany,2025,Wind,27.18
+India,2025,Wind,5.0
+Japan,2025,Wind,1.25
+United States,2025,Wind,10.28
+Brazil,2025,Solar,11.81
+China,2025,Solar,11.1
+Germany,2025,Solar,17.91
+India,2025,Solar,9.41
+Japan,2025,Solar,9.81
+United States,2025,Solar,8.6
