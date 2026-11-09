@@ -1,0 +1,748 @@
+Graduate ID,Gender,Age,Race,Degree Type,Degree Program
+1,Female,36,Hispanic or Latino,Certificate,Business
+2,Female,28,White,Certificate,Business
+3,Female,31,White,Associate's,Business
+4,Female,32,Black or African American,Associate's,Computer Science
+5,Female,20,Asian,Bachelor's,Business
+6,Male,37,Native Hawaiian Or Other Pacific Islander,Certificate,Business
+7,Male,34,White,Bachelor's,Business
+8,Female,20,Black or African American,Bachelor's,Film
+9,Male,21,Hispanic or Latino,Bachelor's,Film
+10,Female,32,Black or African American,Associate's,Finance
+11,Female,20,White,Master's,Business
+12,Male,30,Native Hawaiian Or Other Pacific Islander,Certificate,Business
+13,Female,26,White,Certificate,Health Science
+14,Male,33,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+15,Female,27,Native Hawaiian Or Other Pacific Islander,Bachelor's,Business
+16,Male,25,Hispanic or Latino,Associate's,Business
+17,Male,31,Black or African American,Master's,Health Science
+18,Male,28,Native Hawaiian Or Other Pacific Islander,Bachelor's,Business
+19,Female,38,American Indian or Alaska Native,Certificate,Finance
+20,Male,34,Native Hawaiian Or Other Pacific Islander,Certificate,Finance
+21,Female,28,Native Hawaiian Or Other Pacific Islander,Master's,Health Science
+22,Female,22,American Indian or Alaska Native,Associate's,Business
+23,Female,40,Native Hawaiian Or Other Pacific Islander,Associate's,Information Technology
+24,Male,29,Hispanic or Latino,Master's,Health Science
+25,Male,21,Asian,Master's,History
+26,Male,21,Hispanic or Latino,Master's,History
+27,Male,22,Black or African American,Certificate,Finance
+28,Female,26,White,Master's,Health Science
+29,Female,29,White,Certificate,Finance
+30,Female,24,American Indian or Alaska Native,Certificate,Finance
+31,Male,39,Asian,Master's,Philosophy
+32,Male,32,Hispanic or Latino,Associate's,Information Technology
+33,Male,34,Black or African American,Associate's,Finance
+34,Female,29,American Indian or Alaska Native,Master's,Business
+35,Male,31,White,Bachelor's,Business
+36,Male,40,Black or African American,Master's,Business
+37,Female,35,American Indian or Alaska Native,Certificate,Health Science
+38,Female,36,White,Master's,Health Science
+39,Male,27,Asian,Master's,History
+40,Male,24,American Indian or Alaska Native,Bachelor's,Business
+41,Female,25,Black or African American,Certificate,Health Science
+42,Male,34,Black or African American,Bachelor's,Business
+43,Female,20,Native Hawaiian Or Other Pacific Islander,Bachelor's,Business
+44,Male,31,American Indian or Alaska Native,Associate's,Finance
+45,Male,34,Asian,Associate's,Finance
+46,Male,31,White,Associate's,Finance
+47,Female,32,Asian,Associate's,Information Technology
+48,Male,32,Black or African American,Certificate,History
+49,Male,30,Asian,Certificate,History
+50,Female,24,White,Certificate,Finance
+51,Male,40,Hispanic or Latino,Master's,History
+52,Male,28,White,Bachelor's,Business
+53,Male,39,American Indian or Alaska Native,Associate's,Business
+54,Female,26,Hispanic or Latino,Associate's,Statistics
+55,Male,23,Hispanic or Latino,Master's,Business
+56,Male,22,American Indian or Alaska Native,Certificate,Information Technology
+57,Male,34,Native Hawaiian Or Other Pacific Islander,Master's,Philosophy
+58,Female,27,Black or African American,Bachelor's,Business
+59,Female,28,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+60,Female,33,Asian,Master's,Health Science
+61,Male,30,White,Certificate,Health Science
+62,Female,22,Black or African American,Certificate,Finance
+63,Female,34,Hispanic or Latino,Master's,Health Science
+64,Male,22,White,Master's,Health Science
+65,Male,36,White,Certificate,Information Technology
+66,Female,33,Black or African American,Master's,Health Science
+67,Female,23,Hispanic or Latino,Bachelor's,Information Technology
+68,Female,37,Black or African American,Certificate,Information Technology
+69,Female,36,Native Hawaiian Or Other Pacific Islander,Certificate,Information Technology
+70,Female,36,Native Hawaiian Or Other Pacific Islander,Certificate,Finance
+71,Female,33,Asian,Master's,Finance
+72,Female,39,Black or African American,Certificate,Finance
+73,Male,25,Asian,Bachelor's,Film
+74,Male,32,Native Hawaiian Or Other Pacific Islander,Bachelor's,Film
+75,Female,30,Black or African American,Bachelor's,Film
+76,Female,34,White,Master's,Finance
+77,Female,39,Native Hawaiian Or Other Pacific Islander,Associate's,Statistics
+78,Female,31,Asian,Master's,Health Science
+79,Male,34,American Indian or Alaska Native,Associate's,Statistics
+80,Male,25,American Indian or Alaska Native,Master's,History
+81,Female,40,Hispanic or Latino,Master's,Finance
+82,Male,20,Asian,Bachelor's,Information Technology
+83,Male,36,White,Bachelor's,Information Technology
+84,Female,29,Black or African American,Certificate,Finance
+85,Male,36,White,Master's,Finance
+86,Male,40,White,Certificate,Business
+87,Male,32,Native Hawaiian Or Other Pacific Islander,Certificate,Information Technology
+88,Female,40,White,Master's,Finance
+89,Female,27,Black or African American,Bachelor's,Film
+90,Male,27,Native Hawaiian Or Other Pacific Islander,Bachelor's,Film
+91,Female,28,White,Master's,Finance
+92,Female,39,White,Associate's,Statistics
+93,Female,22,American Indian or Alaska Native,Master's,Finance
+94,Male,40,Native Hawaiian Or Other Pacific Islander,Master's,Finance
+95,Female,31,Asian,Associate's,Statistics
+96,Male,21,White,Master's,Business
+97,Female,40,Hispanic or Latino,Master's,Business
+98,Female,30,Black or African American,Associate's,Computer Science
+99,Female,36,White,Master's,Philosophy
+100,Female,28,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+101,Female,29,American Indian or Alaska Native,Bachelor's,Information Technology
+102,Male,21,Hispanic or Latino,Master's,Business
+103,Male,37,Hispanic or Latino,Certificate,Finance
+104,Male,30,American Indian or Alaska Native,Master's,Information Technology
+105,Male,22,Native Hawaiian Or Other Pacific Islander,Master's,Information Technology
+106,Male,31,White,Bachelor's,Business
+107,Female,31,Black or African American,Certificate,Finance
+108,Male,36,Native Hawaiian Or Other Pacific Islander,Master's,Finance
+109,Male,37,Asian,Associate's,Computer Science
+110,Male,23,Black or African American,Master's,Finance
+111,Male,26,American Indian or Alaska Native,Certificate,Finance
+112,Female,26,American Indian or Alaska Native,Certificate,Finance
+113,Male,22,Asian,Master's,Finance
+114,Female,34,Native Hawaiian Or Other Pacific Islander,Certificate,Philosophy
+115,Male,30,Black or African American,Master's,Information Technology
+116,Female,24,Black or African American,Master's,History
+117,Male,24,White,Associate's,Information Technology
+118,Female,33,Hispanic or Latino,Associate's,Statistics
+119,Female,25,Asian,Bachelor's,Business
+120,Female,38,Asian,Certificate,Philosophy
+121,Female,33,White,Master's,History
+122,Male,39,Hispanic or Latino,Associate's,Business
+123,Female,23,American Indian or Alaska Native,Associate's,Statistics
+124,Female,20,Asian,Associate's,Statistics
+125,Male,30,Hispanic or Latino,Master's,History
+126,Female,34,Asian,Master's,Business
+127,Male,31,American Indian or Alaska Native,Certificate,Finance
+128,Female,39,Hispanic or Latino,Master's,Business
+129,Male,32,White,Certificate,Finance
+130,Female,27,American Indian or Alaska Native,Master's,Business
+131,Female,26,Black or African American,Bachelor's,Business
+132,Male,31,Black or African American,Bachelor's,Business
+133,Male,34,Hispanic or Latino,Certificate,Finance
+134,Male,34,Black or African American,Certificate,History
+135,Male,28,White,Master's,Business
+136,Female,38,Asian,Master's,Business
+137,Male,20,White,Bachelor's,Business
+138,Male,32,American Indian or Alaska Native,Certificate,History
+139,Male,39,Asian,Certificate,Business
+140,Male,39,White,Certificate,History
+141,Male,31,Black or African American,Certificate,History
+142,Female,34,Black or African American,Master's,Business
+143,Male,38,Black or African American,Master's,Business
+144,Female,27,Black or African American,Associate's,Statistics
+145,Female,33,Hispanic or Latino,Master's,Business
+146,Male,24,American Indian or Alaska Native,Master's,Business
+147,Male,32,White,Master's,Philosophy
+148,Male,24,American Indian or Alaska Native,Certificate,Film
+149,Female,39,White,Certificate,Film
+150,Male,21,Asian,Master's,History
+151,Female,31,Asian,Master's,Information Technology
+152,Male,33,Asian,Master's,Information Technology
+153,Female,27,Native Hawaiian Or Other Pacific Islander,Bachelor's,Business
+154,Female,29,Black or African American,Master's,Philosophy
+155,Male,35,Black or African American,Associate's,Statistics
+156,Female,28,American Indian or Alaska Native,Associate's,Finance
+157,Female,34,Hispanic or Latino,Master's,Finance
+158,Male,38,Black or African American,Bachelor's,Business
+159,Female,31,Hispanic or Latino,Master's,Business
+160,Male,22,White,Associate's,Statistics
+161,Male,22,Black or African American,Associate's,Information Technology
+162,Male,39,Hispanic or Latino,Master's,Business
+163,Female,20,Native Hawaiian Or Other Pacific Islander,Master's,Business
+164,Female,30,American Indian or Alaska Native,Master's,Business
+165,Female,27,Asian,Certificate,Film
+166,Female,27,Black or African American,Master's,Finance
+167,Male,36,Asian,Master's,Finance
+168,Female,22,Asian,Master's,Philosophy
+169,Female,25,Hispanic or Latino,Bachelor's,Statistics
+170,Female,24,White,Master's,Business
+171,Male,20,Asian,Associate's,Business
+172,Male,26,Native Hawaiian Or Other Pacific Islander,Associate's,Social Science
+173,Male,22,American Indian or Alaska Native,Master's,Business
+174,Male,28,Asian,Master's,Business
+175,Female,36,Black or African American,Bachelor's,Statistics
+176,Female,26,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+177,Male,23,Asian,Master's,Business
+178,Male,33,American Indian or Alaska Native,Master's,Business
+179,Male,37,Native Hawaiian Or Other Pacific Islander,Master's,Information Technology
+180,Male,28,Native Hawaiian Or Other Pacific Islander,Certificate,Philosophy
+181,Male,20,White,Master's,Finance
+182,Female,32,American Indian or Alaska Native,Master's,Finance
+183,Female,40,American Indian or Alaska Native,Master's,Finance
+184,Female,36,Black or African American,Associate's,Information Technology
+185,Female,28,Black or African American,Associate's,Information Technology
+186,Male,40,White,Bachelor's,Business
+187,Female,33,American Indian or Alaska Native,Bachelor's,Business
+188,Male,25,Native Hawaiian Or Other Pacific Islander,Bachelor's,Statistics
+189,Female,27,Native Hawaiian Or Other Pacific Islander,Master's,Philosophy
+190,Male,33,White,Associate's,Philosophy
+191,Male,34,American Indian or Alaska Native,Master's,Philosophy
+192,Male,24,American Indian or Alaska Native,Bachelor's,Business
+193,Female,33,Asian,Certificate,Philosophy
+194,Female,30,Asian,Certificate,Information Technology
+195,Male,32,American Indian or Alaska Native,Certificate,Information Technology
+196,Male,25,American Indian or Alaska Native,Certificate,Social Science
+197,Male,38,Asian,Master's,Film
+198,Male,34,Hispanic or Latino,Master's,Film
+199,Female,31,American Indian or Alaska Native,Associate's,Philosophy
+200,Male,22,American Indian or Alaska Native,Associate's,Computer Science
+201,Female,34,Hispanic or Latino,Master's,Film
+202,Male,39,American Indian or Alaska Native,Certificate,Statistics
+203,Male,40,White,Certificate,Statistics
+204,Male,22,Native Hawaiian Or Other Pacific Islander,Master's,Film
+205,Female,38,Hispanic or Latino,Associate's,Information Technology
+206,Female,38,Hispanic or Latino,Master's,Finance
+207,Female,31,American Indian or Alaska Native,Certificate,Film
+208,Male,40,White,Certificate,Film
+209,Female,30,White,Certificate,Social Science
+210,Female,34,Native Hawaiian Or Other Pacific Islander,Master's,Finance
+211,Male,25,Asian,Master's,Business
+212,Female,34,Hispanic or Latino,Certificate,Business
+213,Female,26,Asian,Certificate,Information Technology
+214,Female,24,White,Master's,Philosophy
+215,Male,22,Black or African American,Master's,Film
+216,Female,37,Black or African American,Associate's,Computer Science
+217,Female,26,White,Associate's,Information Technology
+218,Male,29,Hispanic or Latino,Associate's,Computer Science
+219,Male,29,Native Hawaiian Or Other Pacific Islander,Master's,Film
+220,Female,20,American Indian or Alaska Native,Master's,Film
+221,Male,20,Hispanic or Latino,Certificate,Film
+222,Female,27,Native Hawaiian Or Other Pacific Islander,Certificate,Film
+223,Female,37,Asian,Certificate,Information Technology
+224,Female,20,Native Hawaiian Or Other Pacific Islander,Certificate,Film
+225,Male,24,White,Certificate,Film
+226,Female,30,Asian,Certificate,Information Technology
+227,Male,32,Black or African American,Certificate,Information Technology
+228,Female,29,Native Hawaiian Or Other Pacific Islander,Master's,Social Science
+229,Male,37,White,Master's,Social Science
+230,Female,35,Native Hawaiian Or Other Pacific Islander,Associate's,Finance
+231,Male,37,White,Associate's,Finance
+232,Female,30,Black or African American,Master's,Philosophy
+233,Male,21,Hispanic or Latino,Master's,Social Science
+234,Female,31,American Indian or Alaska Native,Certificate,Statistics
+235,Female,29,Asian,Certificate,Information Technology
+236,Female,29,Asian,Certificate,Information Technology
+237,Female,25,Hispanic or Latino,Certificate,Business
+238,Female,37,White,Certificate,Information Technology
+239,Female,33,Black or African American,Certificate,Information Technology
+240,Female,39,Asian,Certificate,Statistics
+241,Female,24,American Indian or Alaska Native,Certificate,Statistics
+242,Male,29,Native Hawaiian Or Other Pacific Islander,Associate's,Computer Science
+243,Female,28,Hispanic or Latino,Associate's,Information Technology
+244,Male,25,White,Master's,Film
+245,Male,36,American Indian or Alaska Native,Master's,Social Science
+246,Male,26,White,Bachelor's,Statistics
+247,Male,33,Asian,Associate's,Philosophy
+248,Female,30,Asian,Certificate,Statistics
+249,Female,30,Hispanic or Latino,Master's,Social Science
+250,Female,29,Asian,Master's,Social Science
+251,Male,31,American Indian or Alaska Native,Associate's,Computer Science
+252,Male,34,Black or African American,Master's,Information Technology
+253,Female,38,American Indian or Alaska Native,Master's,Social Science
+254,Female,34,White,Certificate,Statistics
+255,Male,28,Hispanic or Latino,Associate's,Philosophy
+256,Female,39,White,Certificate,Statistics
+257,Male,32,Native Hawaiian Or Other Pacific Islander,Certificate,Statistics
+258,Female,39,Black or African American,Master's,Business
+259,Male,31,Hispanic or Latino,Master's,Information Technology
+260,Female,23,White,Bachelor's,Film
+261,Male,27,Black or African American,Associate's,Computer Science
+262,Female,32,Native Hawaiian Or Other Pacific Islander,Associate's,Philosophy
+263,Male,26,Native Hawaiian Or Other Pacific Islander,Certificate,Statistics
+264,Female,36,White,Certificate,Information Technology
+265,Male,39,Black or African American,Certificate,Information Technology
+266,Female,21,Native Hawaiian Or Other Pacific Islander,Certificate,Business
+267,Female,36,Native Hawaiian Or Other Pacific Islander,Certificate,Information Technology
+268,Male,32,Native Hawaiian Or Other Pacific Islander,Certificate,Computer Science
+269,Female,36,Asian,Master's,Social Science
+270,Male,36,Asian,Master's,Information Technology
+271,Male,34,American Indian or Alaska Native,Master's,Information Technology
+272,Female,23,White,Master's,Information Technology
+273,Female,29,Hispanic or Latino,Associate's,Finance
+274,Male,37,Native Hawaiian Or Other Pacific Islander,Associate's,Finance
+275,Male,35,Hispanic or Latino,Master's,Social Science
+276,Female,37,White,Certificate,Computer Science
+277,Male,24,Hispanic or Latino,Certificate,Computer Science
+278,Male,27,American Indian or Alaska Native,Master's,Social Science
+279,Female,29,Black or African American,Master's,Social Science
+280,Male,24,Black or African American,Master's,Statistics
+281,Female,33,American Indian or Alaska Native,Master's,Film
+282,Male,34,Hispanic or Latino,Certificate,Information Technology
+283,Male,30,White,Certificate,Information Technology
+284,Male,33,Hispanic or Latino,Certificate,Computer Science
+285,Male,23,American Indian or Alaska Native,Certificate,Computer Science
+286,Female,30,Hispanic or Latino,Master's,Film
+287,Male,27,Native Hawaiian Or Other Pacific Islander,Master's,Film
+288,Male,27,American Indian or Alaska Native,Master's,Statistics
+289,Female,26,Native Hawaiian Or Other Pacific Islander,Certificate,Business
+290,Female,36,White,Certificate,Film
+291,Male,21,Black or African American,Certificate,Film
+292,Female,38,Native Hawaiian Or Other Pacific Islander,Certificate,Computer Science
+293,Male,25,Black or African American,Certificate,Computer Science
+294,Female,21,Black or African American,Certificate,Computer Science
+295,Male,33,Black or African American,Certificate,Computer Science
+296,Female,31,White,Master's,Statistics
+297,Male,23,American Indian or Alaska Native,Master's,Business
+298,Female,21,Asian,Master's,Statistics
+299,Female,31,White,Associate's,Finance
+300,Female,38,White,Master's,Statistics
+301,Female,35,White,Master's,Statistics
+302,Male,22,Native Hawaiian Or Other Pacific Islander,Master's,Computer Science
+303,Male,23,White,Certificate,Film
+304,Male,25,Black or African American,Certificate,Computer Science
+305,Female,32,Hispanic or Latino,Certificate,Computer Science
+306,Female,23,White,Master's,Film
+307,Female,40,American Indian or Alaska Native,Master's,Computer Science
+308,Female,37,Black or African American,Certificate,Computer Science
+309,Male,35,Black or African American,Master's,Film
+310,Male,30,Black or African American,Master's,Statistics
+311,Female,36,Hispanic or Latino,Certificate,Computer Science
+312,Female,31,Hispanic or Latino,Master's,Statistics
+313,Male,38,American Indian or Alaska Native,Certificate,Computer Science
+314,Male,36,Native Hawaiian Or Other Pacific Islander,Certificate,Computer Science
+315,Male,23,White,Master's,Computer Science
+316,Female,31,Black or African American,Master's,Information Technology
+317,Female,30,Native Hawaiian Or Other Pacific Islander,Master's,Film
+318,Female,20,White,Associate's,History
+319,Male,29,Hispanic or Latino,Associate's,History
+320,Male,37,Black or African American,Associate's,Information Technology
+321,Female,35,Asian,Associate's,Business
+322,Male,40,Black or African American,Associate's,Information Technology
+323,Male,26,American Indian or Alaska Native,Associate's,Information Technology
+324,Male,25,Native Hawaiian Or Other Pacific Islander,Associate's,Finance
+325,Male,20,White,Master's,Information Technology
+326,Male,30,Black or African American,Master's,Information Technology
+327,Female,28,Black or African American,Master's,Business
+328,Male,35,White,Master's,Statistics
+329,Male,30,White,Master's,Statistics
+330,Female,40,Black or African American,Associate's,Finance
+331,Female,22,American Indian or Alaska Native,Associate's,Finance
+332,Female,27,Black or African American,Associate's,History
+333,Male,23,Native Hawaiian Or Other Pacific Islander,Associate's,Business
+334,Male,37,Black or African American,Associate's,History
+335,Male,26,Native Hawaiian Or Other Pacific Islander,Associate's,History
+336,Female,27,White,Associate's,Philosophy
+337,Female,40,Native Hawaiian Or Other Pacific Islander,Associate's,Business
+338,Female,22,White,Associate's,Philosophy
+339,Male,40,Native Hawaiian Or Other Pacific Islander,Associate's,Computer Science
+340,Female,36,Hispanic or Latino,Master's,Statistics
+341,Female,40,Asian,Master's,Statistics
+342,Male,31,Asian,Associate's,Philosophy
+343,Female,40,Hispanic or Latino,Associate's,Film
+344,Female,32,White,Associate's,Film
+345,Female,36,Native Hawaiian Or Other Pacific Islander,Associate's,Information Technology
+346,Male,37,White,Associate's,Film
+347,Male,24,American Indian or Alaska Native,Master's,Computer Science
+348,Female,37,Hispanic or Latino,Master's,Information Technology
+349,Male,31,Native Hawaiian Or Other Pacific Islander,Master's,Film
+350,Female,40,Black or African American,Master's,Information Technology
+351,Male,37,Asian,Master's,Business
+352,Male,34,Native Hawaiian Or Other Pacific Islander,Associate's,Information Technology
+353,Female,28,American Indian or Alaska Native,Associate's,Film
+354,Female,37,American Indian or Alaska Native,Associate's,Information Technology
+355,Female,36,Black or African American,Associate's,Information Technology
+356,Male,22,American Indian or Alaska Native,Associate's,Finance
+357,Female,35,American Indian or Alaska Native,Associate's,Finance
+358,Male,29,White,Associate's,Finance
+359,Male,23,White,Associate's,Statistics
+360,Male,27,Black or African American,Associate's,Information Technology
+361,Female,26,Native Hawaiian Or Other Pacific Islander,Associate's,Information Technology
+362,Female,22,Asian,Associate's,Computer Science
+363,Male,35,Native Hawaiian Or Other Pacific Islander,Associate's,Information Technology
+364,Male,27,Black or African American,Associate's,Finance
+365,Female,32,Asian,Associate's,Finance
+366,Male,40,Black or African American,Associate's,Finance
+367,Male,26,Native Hawaiian Or Other Pacific Islander,Associate's,Health Science
+368,Female,27,Hispanic or Latino,Associate's,Health Science
+369,Male,26,Black or African American,Associate's,Business
+370,Female,35,Hispanic or Latino,Associate's,Statistics
+371,Male,39,Black or African American,Associate's,Statistics
+372,Female,39,Black or African American,Associate's,Health Science
+373,Female,21,Hispanic or Latino,Associate's,Film
+374,Male,31,American Indian or Alaska Native,Master's,Business
+375,Female,33,Native Hawaiian Or Other Pacific Islander,Master's,Information Technology
+376,Female,22,White,Bachelor's,Film
+377,Male,22,Asian,Master's,Statistics
+378,Female,37,Asian,Associate's,Film
+379,Female,32,Hispanic or Latino,Associate's,Statistics
+380,Male,36,Native Hawaiian Or Other Pacific Islander,Associate's,Health Science
+381,Female,26,White,Master's,Statistics
+382,Male,38,American Indian or Alaska Native,Master's,Statistics
+383,Female,39,Native Hawaiian Or Other Pacific Islander,Master's,Computer Science
+384,Male,26,White,Master's,Computer Science
+385,Female,40,White,Bachelor's,Statistics
+386,Male,34,Native Hawaiian Or Other Pacific Islander,Bachelor's,Statistics
+387,Male,30,White,Bachelor's,Film
+388,Male,26,Asian,Master's,Film
+389,Female,23,Native Hawaiian Or Other Pacific Islander,Master's,Information Technology
+390,Male,25,White,Master's,Computer Science
+391,Male,27,American Indian or Alaska Native,Associate's,Health Science
+392,Male,40,American Indian or Alaska Native,Associate's,History
+393,Female,29,White,Associate's,Information Technology
+394,Female,23,Black or African American,Associate's,Computer Science
+395,Male,22,American Indian or Alaska Native,Associate's,Film
+396,Male,26,Black or African American,Associate's,Film
+397,Female,40,Black or African American,Associate's,Film
+398,Female,31,Native Hawaiian Or Other Pacific Islander,Associate's,Information Technology
+399,Female,27,Hispanic or Latino,Master's,Computer Science
+400,Male,22,Black or African American,Bachelor's,Film
+401,Female,29,Hispanic or Latino,Bachelor's,Film
+402,Female,21,Asian,Bachelor's,Statistics
+403,Female,40,Black or African American,Master's,Computer Science
+404,Female,20,Black or African American,Master's,Computer Science
+405,Male,29,Native Hawaiian Or Other Pacific Islander,Master's,Computer Science
+406,Male,34,Black or African American,Associate's,Information Technology
+407,Male,38,American Indian or Alaska Native,Associate's,Film
+408,Male,37,Hispanic or Latino,Master's,Statistics
+409,Female,36,Black or African American,Bachelor's,Business
+410,Female,32,Black or African American,Master's,Statistics
+411,Female,20,Native Hawaiian Or Other Pacific Islander,Master's,Film
+412,Female,27,Native Hawaiian Or Other Pacific Islander,Associate's,Film
+413,Female,30,American Indian or Alaska Native,Associate's,Film
+414,Female,23,Black or African American,Master's,Film
+415,Female,40,American Indian or Alaska Native,Master's,Statistics
+416,Female,35,White,Master's,Statistics
+417,Male,26,Black or African American,Associate's,History
+418,Female,28,Black or African American,Associate's,Film
+419,Male,36,American Indian or Alaska Native,Master's,Film
+420,Female,30,Hispanic or Latino,Associate's,Film
+421,Female,31,Native Hawaiian Or Other Pacific Islander,Associate's,Film
+422,Male,36,Asian,Master's,Statistics
+423,Male,25,Hispanic or Latino,Master's,Computer Science
+424,Female,22,American Indian or Alaska Native,Associate's,History
+425,Male,33,Black or African American,Master's,Computer Science
+426,Male,36,White,Master's,Computer Science
+427,Female,28,American Indian or Alaska Native,Master's,Computer Science
+428,Male,31,American Indian or Alaska Native,Bachelor's,Business
+429,Male,32,Black or African American,Bachelor's,Statistics
+430,Male,23,Hispanic or Latino,Bachelor's,Film
+431,Female,24,Asian,Bachelor's,Film
+432,Female,29,Asian,Bachelor's,Business
+433,Male,26,Hispanic or Latino,Bachelor's,Business
+434,Male,34,Native Hawaiian Or Other Pacific Islander,Bachelor's,Business
+435,Male,39,American Indian or Alaska Native,Bachelor's,Statistics
+436,Female,35,American Indian or Alaska Native,Bachelor's,Film
+437,Male,39,White,Bachelor's,Statistics
+438,Male,29,Asian,Bachelor's,Business
+439,Female,36,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+440,Female,25,Hispanic or Latino,Bachelor's,Information Technology
+441,Female,37,American Indian or Alaska Native,Bachelor's,Business
+442,Female,37,Asian,Bachelor's,Business
+443,Male,33,Native Hawaiian Or Other Pacific Islander,Bachelor's,Statistics
+444,Male,21,White,Bachelor's,Film
+445,Male,23,White,Bachelor's,Film
+446,Female,37,Black or African American,Bachelor's,Statistics
+447,Male,39,White,Bachelor's,Business
+448,Female,34,Hispanic or Latino,Bachelor's,Business
+449,Female,22,Asian,Bachelor's,Business
+450,Male,40,White,Bachelor's,Information Technology
+451,Male,25,Hispanic or Latino,Bachelor's,Information Technology
+452,Female,30,Black or African American,Bachelor's,Business
+453,Female,33,Asian,Bachelor's,Business
+454,Female,40,Native Hawaiian Or Other Pacific Islander,Bachelor's,Statistics
+455,Male,35,White,Bachelor's,Statistics
+456,Female,29,Asian,Bachelor's,Film
+457,Female,40,American Indian or Alaska Native,Bachelor's,Film
+458,Female,31,Black or African American,Bachelor's,Film
+459,Female,25,Asian,Bachelor's,Film
+460,Female,30,American Indian or Alaska Native,Bachelor's,Film
+461,Female,27,White,Bachelor's,Statistics
+462,Female,25,American Indian or Alaska Native,Bachelor's,Business
+463,Female,24,American Indian or Alaska Native,Bachelor's,Statistics
+464,Male,27,White,Bachelor's,Statistics
+465,Male,24,White,Bachelor's,Film
+466,Male,25,Asian,Bachelor's,Film
+467,Male,24,American Indian or Alaska Native,Bachelor's,Film
+468,Female,40,Native Hawaiian Or Other Pacific Islander,Bachelor's,Film
+469,Male,20,Hispanic or Latino,Bachelor's,Statistics
+470,Male,33,Black or African American,Bachelor's,Business
+471,Male,26,Black or African American,Bachelor's,Film
+472,Male,21,American Indian or Alaska Native,Bachelor's,Film
+473,Female,38,Black or African American,Bachelor's,Film
+474,Male,25,Hispanic or Latino,Bachelor's,Film
+475,Male,27,Native Hawaiian Or Other Pacific Islander,Bachelor's,Film
+476,Male,26,Black or African American,Bachelor's,Film
+477,Female,37,Asian,Bachelor's,Statistics
+478,Male,25,White,Bachelor's,Statistics
+479,Female,38,American Indian or Alaska Native,Bachelor's,Finance
+480,Male,36,Black or African American,Bachelor's,Finance
+481,Male,30,Hispanic or Latino,Bachelor's,Information Technology
+482,Female,32,White,Bachelor's,Business
+483,Male,38,Asian,Bachelor's,Information Technology
+484,Male,38,American Indian or Alaska Native,Bachelor's,Film
+485,Male,35,Native Hawaiian Or Other Pacific Islander,Bachelor's,Film
+486,Female,27,Asian,Bachelor's,Film
+487,Female,26,American Indian or Alaska Native,Bachelor's,Information Technology
+488,Male,31,Asian,Master's,Computer Science
+489,Female,33,American Indian or Alaska Native,Master's,Computer Science
+490,Female,29,Asian,Master's,Computer Science
+491,Female,23,Asian,Master's,Statistics
+492,Female,26,Native Hawaiian Or Other Pacific Islander,Master's,Statistics
+493,Male,28,American Indian or Alaska Native,Master's,Film
+494,Male,24,White,Master's,Statistics
+495,Female,39,Native Hawaiian Or Other Pacific Islander,Master's,Statistics
+496,Female,21,Black or African American,Master's,Computer Science
+497,Male,38,Black or African American,Master's,Information Technology
+498,Female,38,Asian,Master's,Statistics
+499,Female,36,Hispanic or Latino,Master's,Statistics
+500,Female,30,American Indian or Alaska Native,Master's,Statistics
+501,Female,25,Hispanic or Latino,Master's,Statistics
+502,Male,20,Hispanic or Latino,Bachelor's,Film
+503,Male,39,Hispanic or Latino,Bachelor's,Film
+504,Female,34,White,Bachelor's,Finance
+505,Female,30,American Indian or Alaska Native,Bachelor's,Finance
+506,Female,39,Black or African American,Bachelor's,Information Technology
+507,Male,33,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+508,Female,36,Hispanic or Latino,Bachelor's,Information Technology
+509,Male,34,Asian,Bachelor's,Information Technology
+510,Male,40,White,Bachelor's,Information Technology
+511,Female,38,American Indian or Alaska Native,Bachelor's,Business
+512,Male,28,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+513,Male,34,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+514,Male,34,Hispanic or Latino,Bachelor's,Finance
+515,Male,22,White,Bachelor's,Finance
+516,Female,28,American Indian or Alaska Native,Bachelor's,Finance
+517,Female,28,Hispanic or Latino,Bachelor's,Finance
+518,Female,20,Asian,Bachelor's,Finance
+519,Female,31,Hispanic or Latino,Bachelor's,Finance
+520,Male,35,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+521,Male,36,American Indian or Alaska Native,Bachelor's,Finance
+522,Female,20,Asian,Master's,Statistics
+523,Male,35,Asian,Master's,Statistics
+524,Female,20,American Indian or Alaska Native,Master's,Computer Science
+525,Male,21,White,Master's,Information Technology
+526,Female,23,Hispanic or Latino,Master's,Information Technology
+527,Male,33,White,Master's,Film
+528,Female,26,White,Master's,Film
+529,Male,20,Asian,Bachelor's,Finance
+530,Male,34,Black or African American,Bachelor's,Finance
+531,Male,36,Asian,Bachelor's,Finance
+532,Female,25,American Indian or Alaska Native,Bachelor's,Information Technology
+533,Male,28,Native Hawaiian Or Other Pacific Islander,Bachelor's,Business
+534,Female,39,White,Bachelor's,Information Technology
+535,Male,29,Hispanic or Latino,Bachelor's,Information Technology
+536,Male,36,Hispanic or Latino,Bachelor's,Information Technology
+537,Male,38,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+538,Female,22,Hispanic or Latino,Bachelor's,Finance
+539,Female,31,Asian,Bachelor's,Finance
+540,Male,26,American Indian or Alaska Native,Bachelor's,Finance
+541,Female,39,Black or African American,Bachelor's,Information Technology
+542,Male,34,White,Bachelor's,Information Technology
+543,Female,27,Hispanic or Latino,Bachelor's,Information Technology
+544,Female,34,Black or African American,Bachelor's,Finance
+545,Female,24,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+546,Male,36,Asian,Bachelor's,Information Technology
+547,Female,25,White,Bachelor's,Computer Science
+548,Male,30,Black or African American,Bachelor's,Business
+549,Male,33,Hispanic or Latino,Master's,Information Technology
+550,Female,24,Black or African American,Master's,Information Technology
+551,Female,37,Black or African American,Bachelor's,Information Technology
+552,Female,39,Black or African American,Bachelor's,Computer Science
+553,Male,21,White,Bachelor's,Computer Science
+554,Male,21,Hispanic or Latino,Bachelor's,Information Technology
+555,Male,30,American Indian or Alaska Native,Bachelor's,Finance
+556,Male,24,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+557,Male,28,Hispanic or Latino,Bachelor's,Finance
+558,Female,22,Asian,Bachelor's,Finance
+559,Female,31,Hispanic or Latino,Bachelor's,Finance
+560,Male,26,Black or African American,Bachelor's,Information Technology
+561,Male,22,Asian,Bachelor's,Information Technology
+562,Male,28,White,Bachelor's,Information Technology
+563,Female,30,Black or African American,Bachelor's,Information Technology
+564,Male,34,Asian,Bachelor's,Computer Science
+565,Male,22,White,Bachelor's,Computer Science
+566,Male,38,Native Hawaiian Or Other Pacific Islander,Bachelor's,Computer Science
+567,Female,26,Hispanic or Latino,Bachelor's,Computer Science
+568,Male,34,Hispanic or Latino,Bachelor's,Computer Science
+569,Male,26,White,Bachelor's,Computer Science
+570,Female,24,Hispanic or Latino,Bachelor's,Computer Science
+571,Female,25,Asian,Master's,Information Technology
+572,Male,29,Black or African American,Master's,Information Technology
+573,Female,22,Hispanic or Latino,Master's,Computer Science
+574,Female,21,Native Hawaiian Or Other Pacific Islander,Master's,Information Technology
+575,Female,40,Black or African American,Bachelor's,Finance
+576,Male,28,American Indian or Alaska Native,Bachelor's,Finance
+577,Female,32,Asian,Bachelor's,Finance
+578,Female,38,American Indian or Alaska Native,Bachelor's,Finance
+579,Female,26,Hispanic or Latino,Bachelor's,Finance
+580,Female,22,White,Bachelor's,Computer Science
+581,Male,29,White,Bachelor's,Computer Science
+582,Female,22,White,Bachelor's,Computer Science
+583,Female,22,Asian,Bachelor's,Computer Science
+584,Male,25,Asian,Bachelor's,Computer Science
+585,Female,40,Hispanic or Latino,Bachelor's,Computer Science
+586,Female,36,Native Hawaiian Or Other Pacific Islander,Bachelor's,Computer Science
+587,Male,25,Native Hawaiian Or Other Pacific Islander,Bachelor's,Computer Science
+588,Female,35,Native Hawaiian Or Other Pacific Islander,Bachelor's,Computer Science
+589,Female,23,White,Bachelor's,Computer Science
+590,Female,27,American Indian or Alaska Native,Bachelor's,Information Technology
+591,Male,32,Black or African American,Bachelor's,Information Technology
+592,Female,27,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+593,Female,28,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+594,Female,28,Hispanic or Latino,Bachelor's,Finance
+595,Male,22,American Indian or Alaska Native,Master's,Information Technology
+596,Male,29,Native Hawaiian Or Other Pacific Islander,Master's,Film
+597,Female,34,Hispanic or Latino,Master's,Film
+598,Male,24,American Indian or Alaska Native,Master's,Film
+599,Female,32,Black or African American,Bachelor's,Finance
+600,Male,38,American Indian or Alaska Native,Bachelor's,Finance
+601,Female,22,Asian,Bachelor's,Information Technology
+602,Female,22,Black or African American,Bachelor's,Computer Science
+603,Female,21,White,Bachelor's,Information Technology
+604,Male,36,Hispanic or Latino,Bachelor's,Information Technology
+605,Female,26,Black or African American,Bachelor's,Finance
+606,Female,24,Black or African American,Bachelor's,Finance
+607,Female,33,Asian,Bachelor's,Finance
+608,Female,28,American Indian or Alaska Native,Bachelor's,Information Technology
+609,Female,40,Hispanic or Latino,Bachelor's,Finance
+610,Female,21,Black or African American,Bachelor's,Finance
+611,Male,39,Asian,Bachelor's,Finance
+612,Male,34,White,Bachelor's,Finance
+613,Female,24,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+614,Female,23,Hispanic or Latino,Bachelor's,Computer Science
+615,Female,33,Hispanic or Latino,Bachelor's,Computer Science
+616,Male,28,Black or African American,Bachelor's,Computer Science
+617,Female,27,Hispanic or Latino,Bachelor's,Computer Science
+618,Female,24,American Indian or Alaska Native,Bachelor's,Information Technology
+619,Female,27,American Indian or Alaska Native,Master's,Film
+620,Male,23,Hispanic or Latino,Master's,Film
+621,Female,30,Native Hawaiian Or Other Pacific Islander,Master's,Information Technology
+622,Female,38,White,Bachelor's,Finance
+623,Male,23,American Indian or Alaska Native,Bachelor's,Finance
+624,Female,38,Asian,Bachelor's,Finance
+625,Male,39,American Indian or Alaska Native,Bachelor's,Finance
+626,Male,22,White,Bachelor's,Finance
+627,Female,37,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+628,Female,26,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+629,Male,40,White,Bachelor's,Finance
+630,Male,32,Black or African American,Bachelor's,Finance
+631,Male,27,American Indian or Alaska Native,Bachelor's,Finance
+632,Male,33,American Indian or Alaska Native,Bachelor's,Finance
+633,Female,29,Native Hawaiian Or Other Pacific Islander,Bachelor's,Finance
+634,Male,29,American Indian or Alaska Native,Bachelor's,Finance
+635,Male,32,White,Bachelor's,Information Technology
+636,Female,32,American Indian or Alaska Native,Bachelor's,Information Technology
+637,Female,31,White,Bachelor's,Health Science
+638,Female,32,Native Hawaiian Or Other Pacific Islander,Bachelor's,Health Science
+639,Female,37,Black or African American,Bachelor's,Health Science
+640,Female,20,Black or African American,Bachelor's,Information Technology
+641,Male,21,White,Bachelor's,Health Science
+642,Male,25,American Indian or Alaska Native,Master's,Information Technology
+643,Male,37,Asian,Master's,Computer Science
+644,Male,24,Black or African American,Master's,Computer Science
+645,Female,32,Black or African American,Master's,Information Technology
+646,Female,29,White,Bachelor's,Health Science
+647,Male,31,Hispanic or Latino,Bachelor's,Information Technology
+648,Male,40,Black or African American,Bachelor's,Computer Science
+649,Female,32,White,Bachelor's,Computer Science
+650,Male,27,Asian,Bachelor's,Computer Science
+651,Male,33,Black or African American,Bachelor's,Computer Science
+652,Female,23,Black or African American,Bachelor's,Computer Science
+653,Male,38,Asian,Bachelor's,Information Technology
+654,Female,28,American Indian or Alaska Native,Bachelor's,Computer Science
+655,Male,36,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+656,Male,40,American Indian or Alaska Native,Bachelor's,Information Technology
+657,Male,25,Hispanic or Latino,Bachelor's,Computer Science
+658,Female,24,American Indian or Alaska Native,Bachelor's,Computer Science
+659,Male,27,American Indian or Alaska Native,Bachelor's,Computer Science
+660,Female,22,White,Bachelor's,Computer Science
+661,Male,37,White,Bachelor's,Computer Science
+662,Female,39,Asian,Bachelor's,Computer Science
+663,Female,23,Black or African American,Bachelor's,Computer Science
+664,Female,30,Hispanic or Latino,Bachelor's,Information Technology
+665,Male,40,American Indian or Alaska Native,Bachelor's,Information Technology
+666,Female,27,American Indian or Alaska Native,Master's,Film
+667,Female,26,American Indian or Alaska Native,Master's,Information Technology
+668,Female,31,American Indian or Alaska Native,Master's,Computer Science
+669,Female,34,Asian,Bachelor's,Health Science
+670,Female,35,Hispanic or Latino,Bachelor's,Health Science
+671,Male,22,White,Bachelor's,Health Science
+672,Female,36,Black or African American,Bachelor's,Statistics
+673,Female,22,Native Hawaiian Or Other Pacific Islander,Bachelor's,Statistics
+674,Female,38,Asian,Bachelor's,History
+675,Female,35,Black or African American,Bachelor's,History
+676,Male,40,White,Bachelor's,Statistics
+677,Male,24,Hispanic or Latino,Bachelor's,Computer Science
+678,Female,27,American Indian or Alaska Native,Bachelor's,Statistics
+679,Male,26,Black or African American,Bachelor's,Statistics
+680,Female,39,American Indian or Alaska Native,Bachelor's,History
+681,Male,32,Asian,Bachelor's,History
+682,Male,26,American Indian or Alaska Native,Bachelor's,Statistics
+683,Male,23,White,Bachelor's,Information Technology
+684,Female,39,Black or African American,Bachelor's,History
+685,Female,35,Hispanic or Latino,Bachelor's,History
+686,Male,32,Asian,Bachelor's,Statistics
+687,Female,22,American Indian or Alaska Native,Bachelor's,Statistics
+688,Female,35,White,Bachelor's,Statistics
+689,Female,34,American Indian or Alaska Native,Master's,Information Technology
+690,Male,40,Native Hawaiian Or Other Pacific Islander,Master's,Computer Science
+691,Female,22,White,Master's,Information Technology
+692,Male,21,Native Hawaiian Or Other Pacific Islander,Bachelor's,Statistics
+693,Male,31,White,Bachelor's,Information Technology
+694,Male,21,American Indian or Alaska Native,Bachelor's,Information Technology
+695,Female,21,American Indian or Alaska Native,Bachelor's,Computer Science
+696,Male,30,Black or African American,Bachelor's,Information Technology
+697,Female,20,White,Bachelor's,Social Science
+698,Male,25,American Indian or Alaska Native,Bachelor's,Social Science
+699,Male,33,Asian,Bachelor's,Social Science
+700,Female,24,White,Bachelor's,History
+701,Female,22,White,Bachelor's,History
+702,Female,38,Asian,Bachelor's,History
+703,Male,38,White,Bachelor's,Information Technology
+704,Female,24,Hispanic or Latino,Bachelor's,Social Science
+705,Male,28,American Indian or Alaska Native,Bachelor's,Information Technology
+706,Male,21,American Indian or Alaska Native,Bachelor's,Information Technology
+707,Female,39,Hispanic or Latino,Bachelor's,Computer Science
+708,Male,31,Black or African American,Bachelor's,Computer Science
+709,Male,27,American Indian or Alaska Native,Bachelor's,Computer Science
+710,Female,36,Hispanic or Latino,Bachelor's,Computer Science
+711,Female,40,Hispanic or Latino,Bachelor's,Computer Science
+712,Male,20,Asian,Master's,Information Technology
+713,Male,21,Asian,Master's,Computer Science
+714,Female,39,Hispanic or Latino,Master's,Computer Science
+715,Male,36,American Indian or Alaska Native,Master's,Computer Science
+716,Female,38,White,Master's,Computer Science
+717,Female,25,White,Bachelor's,Computer Science
+718,Male,31,Black or African American,Bachelor's,Computer Science
+719,Male,35,White,Bachelor's,Computer Science
+720,Male,35,Asian,Bachelor's,Computer Science
+721,Male,22,Hispanic or Latino,Bachelor's,Computer Science
+722,Male,26,American Indian or Alaska Native,Bachelor's,Philosophy
+723,Male,40,Hispanic or Latino,Bachelor's,Philosophy
+724,Female,31,American Indian or Alaska Native,Bachelor's,Philosophy
+725,Male,39,Hispanic or Latino,Bachelor's,Philosophy
+726,Female,36,Black or African American,Bachelor's,Philosophy
+727,Female,35,American Indian or Alaska Native,Bachelor's,Philosophy
+728,Male,32,Asian,Bachelor's,Film
+729,Female,37,Black or African American,Bachelor's,Film
+730,Female,34,American Indian or Alaska Native,Bachelor's,Social Science
+731,Male,27,Asian,Bachelor's,Social Science
+732,Male,38,Hispanic or Latino,Bachelor's,Film
+733,Female,36,American Indian or Alaska Native,Bachelor's,Film
+734,Female,29,Black or African American,Bachelor's,Film
+735,Male,40,American Indian or Alaska Native,Bachelor's,Statistics
+736,Male,35,Hispanic or Latino,Bachelor's,Statistics
+737,Male,34,Hispanic or Latino,Bachelor's,Statistics
+738,Female,23,Black or African American,Bachelor's,Statistics
+739,Male,23,Native Hawaiian Or Other Pacific Islander,Bachelor's,Information Technology
+740,Male,33,Hispanic or Latino,Bachelor's,Statistics
+741,Female,31,Black or African American,Bachelor's,Information Technology
+742,Male,26,Black or African American,Bachelor's,Statistics
+743,Female,31,Hispanic or Latino,Bachelor's,Statistics
+744,Male,40,Hispanic or Latino,Bachelor's,Statistics
+745,Male,20,Asian,Bachelor's,Statistics
+746,Male,31,American Indian or Alaska Native,Bachelor's,Statistics
+747,Female,33,Asian,Master's,Computer Science
